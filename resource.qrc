@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/chat.png</file>
+        <file>images/gift.png</file>
+        <file>images/home.png</file>
+        <file>images/logo.jpg</file>
+        <file>images/order-now.png</file>
+        <file>images/pizza.png</file>
+        <file>images/rate.png</file>
+        <file>images/reject.png</file>
+        <file>images/track-of-time.png</file>
+        <file>../../../Downloads/menu.png</file>
+        <file>../../../Downloads/user.png</file>
+        <file>../../../Downloads/seach.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../../../Downloads/menu.png</file>
+        <file>../../../Downloads/screen.png</file>
+    </qresource>
+</RCC>
